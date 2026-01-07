@@ -31,5 +31,6 @@ The dashboard provides a comprehensive view of e-commerce sales performance, hel
 
 ### Dashboard Preview
 
-![E-Commerce Sales Dashboard](final_output/Laxmi Ecommerce Sales Dashboard.jpg)
+![E-Commerce Sales Dashboard](final_output/laxmi-ecommerce-sales-dashboard.jpg)
+
 
