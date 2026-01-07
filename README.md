@@ -28,3 +28,8 @@ This project focuses on analyzing e-commerce sales data and presenting meaningfu
 ### Key Outcome
 
 The dashboard provides a comprehensive view of e-commerce sales performance, helping stakeholders quickly identify trends, patterns, and key business insights through interactive and visually rich reports.
+
+### Dashboard Preview
+
+![E-Commerce Sales Dashboard](final_output/Laxmi Ecommerce Sales Dashboard.jpg)
+
